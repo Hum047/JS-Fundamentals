@@ -8,3 +8,4 @@ if (isNaN(times) || times <= 0) {
     console.log("C is fun");
   }
 }
+
